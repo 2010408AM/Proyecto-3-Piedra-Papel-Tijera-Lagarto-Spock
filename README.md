@@ -36,11 +36,11 @@ Ruby ≥ 2.5 (obligatorio)
 Shoes ≥ 4.0 (solo para GUI)
 
    ## Archivos
-   RPTLS.rb
+   ```RPTLS.rb
    Piedra.png   Papel.png   Tijera.png   Lagarto.png   Spock.png  (opcionales, pero recomendados para mejorar la experiencia visual)
 
    ## Comandos
-   ruby RPTLS.rb                # modo interactivo (pregunta consola/GUI)
+   ```ruby RPTLS.rb                # modo interactivo (pregunta consola/GUI)
    ruby RPTLS.rb -c             # consola
    ruby RPTLS.rb -s             # Shoes (si está instalado)
 
