@@ -45,14 +45,15 @@ Shoes ≥ 4.0 (solo para GUI)
 * ruby RPTLS.rb -s    → Shoes (si está instalado)
 
 ## Reglas Implementadas
-Tijera corta a Papel
-Papel tapa a Piedra
-Piedra aplasta a Lagarto
-Lagarto envenena a Spock
-Spock rompe a Tijera
-Tijera decapita a Lagarto
-Lagarto devora a Papel
-Papel desautoriza a Spock
-Spock vaporiza a Piedra
-Piedra aplasta a Tijera
+* Tijera corta a Papel
+* Papel tapa a Piedra
+* Piedra aplasta a Lagarto
+* Lagarto envenena a Spock
+* Spock rompe a Tijera
+* Tijera decapita a Lagarto
+* Lagarto devora a Papel
+* Papel desautoriza a Spock
+* Spock vaporiza a Piedra
+* Piedra aplasta a Tijera
+  
 **Todas verificadas mediante polimorfismo.**
